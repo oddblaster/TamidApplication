@@ -1,0 +1,36 @@
+Challenge 2: Calculator
+Create a program that acts as a calculator.
+
+This program should prompt the user for two numbers, and a function (+, -, *, /, and %). It should then print out the result.
+
+You should keep prompting the user to do more calculations until they enter "n".
+
+You must have error handling.
+
+Examples
+  Welcome to the TAMID Calculator!
+
+  Would you like to calculate something (y/n): y
+
+  Please enter the first number: 1
+  Please enter the second number: 2
+  Please enter your function: *
+
+  Your result was: 2!
+
+  Would you like to calculate something (y/n): n
+
+  Thanks for coming!
+  Welcome to the TAMID Calculator!
+
+  Would you like to calculate something (y/n): y
+
+  Please enter the first number: 1
+  Please enter the second number: 0
+  Please enter your function: /
+
+  You cannot divide by 0!
+
+  Would you like to calculate something (y/n): n
+
+  Thanks for coming!

@@ -1,0 +1,30 @@
+Challenge 1: Sorting
+Given two sorted arrays (arr1, arr2) and a number, k, create a method, sortArrays that returns a sorted array of the first k elements.
+
+Bonus points if you write this in one line - it's possible!
+
+Examples
+Array 1: [1, 3, 5, 8]
+Array 2: [1, 2, 3]
+Number (k): 5
+
+sortArrays(arr1, arr2, k) returns:
+[1, 1, 2, 3, 3]
+Array 1: [2, 8, 15, 30]
+Array 2: [1, 2, 3]
+Number (k): 2
+
+sortArrays(arr1, arr2, k) returns:
+[1, 2]
+Array 1: [1, 3, 5, 8]
+Array 2: [1, 2, 3]
+Number (k): 0
+
+sortArrays(arr1, arr2, k) returns:
+[]
+Array 1: [1, 3, 5, 8]
+Array 2: []
+Number (k): 10
+
+sortArrays(arr1, arr2, k) returns:
+[1, 3, 5, 8]
